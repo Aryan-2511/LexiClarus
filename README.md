@@ -120,12 +120,21 @@ streamlit run app.py
 ## 🖼️ Screenshots
 <p align="center">
   <img src="assets\screenshots\ss1.png" alt="LexiClarus Logo" width="600"/>
+</p>  
+<p align="center">
   <img src="assets\screenshots\ss2.png" alt="LexiClarus Logo" width="600"/>
+</p>  
+<p align="center">
   <img src="assets\screenshots\ss3.png" alt="LexiClarus Logo" width="600"/>
+</p>  
+<p align="center">
   <img src="assets\screenshots\ss5.png" alt="LexiClarus Logo" width="600"/>
+</p>  
+<p align="center">
   <img src="assets\screenshots\ss4.png" alt="LexiClarus Logo" width="600"/>
+</p>  
+<p align="center">
   <img src="assets\screenshots\ss6.png" alt="LexiClarus Logo" width="600"/>
-
 </p>  
 
 ---
